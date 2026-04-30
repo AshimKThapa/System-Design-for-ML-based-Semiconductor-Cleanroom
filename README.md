@@ -23,7 +23,7 @@ Important artifacts implemented for SysML System Design include:
 19. MOP/MOE
 20. Test Scenarios/Test Cases
 
-Citation
+Citation:
 Ordoñez, F. (2022, October 6). Biden has $52 billion for semiconductors. Today, work
 begins to spend that windfall. NPR. Retrieved May 7, 2023, from
 https://www.npr.org/2022/10/06/1126947495/biden-has-52-billion-for-semiconductor
